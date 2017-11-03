@@ -1,3 +1,5 @@
+import pygame
+pygame.init()
 import random
 import time
 global bossh
