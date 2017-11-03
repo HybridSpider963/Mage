@@ -1,5 +1,8 @@
 import pygame
 pygame.init()
+screenSize=(640,480)
+surface=pygame.display.net_node(screenSize)
+pygame.display.flip()
 import random
 import time
 global bossh
